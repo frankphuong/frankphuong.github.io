@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Frank Phuong</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on Frank Phuong</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mình đọc cuốn sách &#34;LLM from scratch - &#34;</title>
+      <link>http://localhost:1313/blogs/llm_from_scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/llm_from_scratch/</guid>
+      <description>Là những ghi chú trong quá trình đọc cuốn sách LLM from scratch -</description>
+    </item>
+    <item>
+      <title>Mình đọc cuốn sách AI Engineering của chị Huyền Chip</title>
+      <link>http://localhost:1313/blogs/ai_engineer_book_overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/ai_engineer_book_overview/</guid>
+      <description>Đây là những tổng hợp ghi chú trong cuốn sách AI Engineering - Huyền Chip</description>
+    </item>
+  </channel>
+</rss>

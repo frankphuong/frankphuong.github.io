@@ -1,0 +1,45 @@
+baseURL: "https://frankphuong.com"
+languageCode: en-us
+title: Frank Phuong
+pagination:
+  pageSize: 10
+theme: PaperMod
+
+ShowShareButtons: true
+
+params:
+  showtoc: true
+  tocopen: true
+  comments: true
+  profileMode:
+    enable: true
+
+  homeInfoParams:
+    Title: "Frank Phuong's blog"
+    Content: >
+      Xin chào, mình là Phương, một Engineer học tập và làm việc
+
+  socialIcons:
+    - name: Linkedin
+      url: https://linkedin.com/in/frankphuongnguyen
+    - name: facebook
+      url: https://facebook.com/frankphuongnguyen
+    - name: github
+      url: https://github.com/frankphuong
+  
+
+menu:
+  main:
+    - identifier: blogs
+      name: blogs
+      url: /blogs/
+      weight: 1
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 2
+    - identifer: about me
+      name: about me
+      url: /aboutme.md
+      weight: 3
+

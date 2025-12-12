@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frank Phuong</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Frank Phuong</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI agent foundation - 001</title>
+      <link>http://localhost:1313/projects/ai-agent-foundation/001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ai-agent-foundation/001/</guid>
+      <description>&lt;p&gt;Vấn đề: Khi nào thì chúng ta build agent?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First post</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Xin chào mọi người, mình là Phương.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mình đọc cuốn sách &#34;LLM from scratch - &#34;</title>
+      <link>http://localhost:1313/blogs/llm_from_scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/llm_from_scratch/</guid>
+      <description>Là những ghi chú trong quá trình đọc cuốn sách LLM from scratch -</description>
+    </item>
+    <item>
+      <title>Mình đọc cuốn sách AI Engineering của chị Huyền Chip</title>
+      <link>http://localhost:1313/blogs/ai_engineer_book_overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/ai_engineer_book_overview/</guid>
+      <description>Đây là những tổng hợp ghi chú trong cuốn sách AI Engineering - Huyền Chip</description>
+    </item>
+  </channel>
+</rss>
